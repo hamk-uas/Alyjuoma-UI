@@ -1,7 +1,6 @@
 # Alyjuoma-UI
 
-A full-stack application with Node.js backend and React frontend, connected to MySQL database to show data as bar chart and line chart. This development is made part of https://www.hamk.fi/projektit/alyjuoma-automaatti-2022/ where data was utilized to demonstarte dirinking events results.
-
+A full-stack application with Node.js backend and React frontend, connected to MySQL database to show data as bar chart and line chart. The work was a continuation of the Smart Beverage Vending Machine 2022 project, which was funded by the European Agricultural Fund for Rural Development (Finland's Rural Development Programme 2014–2020 EU Recovery Fund additional resources, rural innovation groups EIP). You can find more information about the project on the project website [Älyjuoma-​automaatti 2022](www.hamk.fi/alyjuoma-automaatti). The work reported in the article was primarily carried out by Joni Rikula as a teaching assistant alongside his regular duties during 2024–2025.
 ## Prerequisites
 
 Before you begin, ensure you have the following installed on your system:
@@ -114,6 +113,15 @@ project-root/
 | `MYSQL_DATABASE` | MySQL database name | `your_database_name` |
 | `MYSQL_PASSWORD` | MySQL password | `your_secure_password` |
 
+## Authors
+
+2025 Joni Rikula
+
 ## License
 
-[Add your license information here]
+Licensed under the MIT license. We are probably happy to help if you need a different open license.
+
+## Copyright
+
+Copyright 2025 HAMK Häme University of Applied Sciences
+
